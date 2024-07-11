@@ -1,0 +1,195 @@
+header{
+    display:flex;
+    
+}
+.head-button{
+    justify-self: end;
+    margin: auto;
+    margin: auto;
+}
+
+
+
+.my{
+    background-image: url("Hero-bg.png");
+}
+.my-button{
+    
+    text-align: center;
+    height: 66px;
+    width: 208px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    
+}
+.web{
+   
+    gap: 32px;
+    background-color: rgba(231, 236, 255, 1.00);
+    height: 1442px;
+    width: 1140px;
+    border-radius: 16px;
+    margin:80px 97px 80px 97px ;
+    display: flex;
+    display: block;
+    justify-content: center;
+    margin: auto;
+}
+.resume{
+    
+    gap: 99px;
+    background-color: white;
+    padding: 48px;
+   
+    border-radius: 16px;
+}
+.resume{
+    justify-content: center;
+    margin: auto;
+    display: flex;
+}
+.resume-button{
+    margin-top: 16px;
+}
+.resume-column-title{
+    margin-bottom: 16px;
+}
+.clone{
+    padding:48px ;
+    gap: 99px;
+    
+    border-radius: 5px;
+    padding: 48px;
+}
+.clone-title{
+    margin-bottom: 16px;
+}
+.clone-button{
+    margin-top: 16px;
+}
+
+.clone{
+    display: flex;
+}
+.copy{
+    display: flex;
+}
+.copy{
+    padding:48px ;
+    gap: 99px;
+
+    background-color: white;
+    border-radius: 5px;
+}
+.copy-title{
+    margin-bottom: 16px;
+}
+.copy-button{
+    margin-top: 16px;
+}
+.text-center{
+    text-align: center;
+}
+
+.video{
+    padding:48px ;
+}
+.jb{
+    padding:32px ;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0.001px solid rgba(61, 59, 59, 0.24);
+    border-radius: 16px;
+}
+
+.section-title{
+    text-align: center;
+}
+.sectiton-des{
+    text-align: center;
+}
+.skils-container{
+    display: flex;
+    gap:24px ;
+   
+    margin: auto;
+    justify-content: center;
+    
+    border-radius: 10%;
+    padding: 40px;
+}
+.skil1{
+    height: 300px;
+    width: 364px;
+    border-radius: 16px;
+    padding: 40px;
+    background-color:rgba(255, 76, 30, 0.05);
+    gap: 24px;
+    
+}
+.skil2{
+    height: 300px;
+    width: 364px;
+    border-radius: 16px;
+    padding: 40px;
+    background-color:rgba(0, 76, 232, 0.05);
+    gap: 24px;
+}
+.skil3{
+    height: 300px;
+    width: 364px;
+    border-radius: 16px;
+    padding: 40px;
+    background-color:rgba(255, 223, 0, 0.05) ;
+    gap: 24px;
+}
+.support{
+    background-image: url("sifat.jpg");
+    height: 314px;
+    width: 1140px;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    margin: auto;
+    justify-content: center;
+    
+    background-size: 100% 100%;
+   
+}
+.support-teg{
+   padding: 48px;
+}
+.support-title{
+    color: white;
+}
+.support-dis{
+    color: white;
+}
+.support-text{
+    border-radius: 8px;
+    height: 57px;
+    width: 548px;
+    text-align: center;
+
+}
+.support-input{
+    border-radius: 8px;
+    width: 120px;
+    height: 58px;
+}
+footer{
+  display: block;
+    background-color: bisque;
+    display: flex
+}
+.footer-main{
+    display: flex;
+    margin: 32px 150px 32px 150px;
+}
+.footer-titel{
+    margin-right: 1000px;
+}
+.footer-icon{
+    gap: 10px;
+}
